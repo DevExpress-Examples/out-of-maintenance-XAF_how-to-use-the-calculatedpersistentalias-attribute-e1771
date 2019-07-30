@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to use the CalculatedPersistentAlias attribute
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1771)**
+**[[Run Online]](https://codecentral.devexpress.com/e1771/)**
 <!-- run online end -->
 
 
